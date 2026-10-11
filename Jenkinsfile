@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'YOUR_DOCKERHUB_USERNAME/vle7-nginx'
+        IMAGE_NAME = 'PodaMounitha1/vle7-nginx'
     }
 
     stages {
